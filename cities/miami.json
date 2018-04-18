@@ -1,0 +1,17 @@
+{
+    "name":     "Miami",
+    "state":    "FL",
+    "high":     {
+        "avg":  27.0,
+        "std":  4.5
+    },
+    "low":      {
+        "avg":  10.0,
+        "std":  4.5
+    },
+    "precip":   {
+        "yamt": 1000.0,
+        "std":  10.0,
+        "days": 300.0
+    }
+}
